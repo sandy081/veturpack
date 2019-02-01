@@ -1,11 +1,11 @@
 <template>
   <div class="page">
-    <counter></counter>
+    <counter/>
   </div>
 </template>
 
 <script>
-import Counter from 'components/Counter'
+import Countre from 'components/Counter'
 
 export default {
   components: {
