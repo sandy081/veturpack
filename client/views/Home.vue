@@ -5,11 +5,11 @@
 </template>
 
 <script>
-import Countre from 'components/Counter'
+import Counter from 'components/Counter'
 
 export default {
   components: {
-    Counter
+    Countre
   }
 }
 </script>
